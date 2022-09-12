@@ -1,4 +1,4 @@
-# Awesome Neural Material Appearance Modeling
+# Curated list of Awesome Neural Material Appearance Modeling Methods
 
 ## (sv)BRDF Modelling
 
