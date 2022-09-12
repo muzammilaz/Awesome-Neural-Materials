@@ -1,1 +1,1 @@
-# Neural-Material-Appearance-Modelling
+# Neural Material Appearance Modeling
