@@ -9,3 +9,8 @@ Modeling Surface Appearance from a Single Photograph using Self-augmented Convol
 
 Generative Modelling of BRDF Textures from Flash Images by P. Henzler et al. (2021)<br />
 [Paper](https://arxiv.org/pdf/2102.11861.pdf) | [Code](https://github.com/henzler/neuralmaterial/) | [Project Page](https://henzler.github.io/publication/neuralmaterial/)
+
+
+## BTF Modelling
+
+TODO
